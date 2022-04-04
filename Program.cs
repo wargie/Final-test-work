@@ -3,7 +3,7 @@ int countFirst = CountStringLessThreeChar(arrayFirst);
 string[] resultFirst =  FillResultArray(arrayFirst,countFirst);
 
 
-string[] arraySecond = {"1234", "16", "-41", "my_sun"};
+string[] arraySecond = {"333", "16", "-41", "my_sun", "abcd"};
 int countSecond  = CountStringLessThreeChar(arraySecond);
 string[] resultSecond = FillResultArray(arraySecond,countSecond);
 
